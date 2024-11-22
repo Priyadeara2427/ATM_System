@@ -1,6 +1,6 @@
-# <img src="https://github.com/user-attachments/assets/0b5627f2-60cd-413e-abe8-4cd6a232ce00" alt="image" width="30"/> Virtual ATM System Project 
+# <img src="https://github.com/user-attachments/assets/0b5627f2-60cd-413e-abe8-4cd6a232ce00" alt="image" width="30"/> Virtual ATM System.
 
-🎉Welcome to the ATM System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data. 
+🎉Welcome to the ATM System! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data. 
 
 This project aims at creating a scenario that depicts ATM operations in a program environment with the help of JAVA. The system also provides capability for performing various banking transactions including checking on balance, depositing and withdrawal of cash. Besides, if any user attempts to access the Virtual ATM, he or she must be authenticated and granted a password to proceed with the operations. The project also seeks to show how an ATM responds to secure and efficient transaction management and also the feedback the machine gives to the user through transaction log. 
 
